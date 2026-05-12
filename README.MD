@@ -173,11 +173,13 @@ mvn clean javafx:run
 ---
 
 # Screenshots
+Travel, destination, inventory, and market displays:
+![alt text](image-2.png)
 
-*Add gameplay screenshots here.*
+Main map:
+![alt text](image-3.png)
 
-![alt text](image.png)
-
+Shop view:
 ![alt text](image-1.png)
 
 ---
