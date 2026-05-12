@@ -1,4 +1,4 @@
-# Traveling Salesman Game
+# Merchants Path — Turn-Based Strategy Game
 
 A turn-based strategy and trading game built in Java using JavaFX.
 
