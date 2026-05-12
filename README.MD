@@ -1,4 +1,4 @@
-# Merchants Path — Turn-Based Strategy Game
+# Merchants Path
 
 A turn-based strategy and trading game built in Java using JavaFX.
 
