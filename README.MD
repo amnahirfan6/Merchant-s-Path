@@ -176,13 +176,9 @@ mvn clean javafx:run
 
 *Add gameplay screenshots here.*
 
-Suggested screenshots:
+![alt text](image.png)
 
-* Main gameplay screen
-* AI movement in action
-* Shop system
-* Destination selection panel
-* Game over / win screen
+![alt text](image-1.png)
 
 ---
 
